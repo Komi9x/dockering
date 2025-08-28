@@ -18,4 +18,4 @@ jobs:
       with:
         centext:
         push: true
-        tags: komi9x/
+        tags: komi9x/dockering:latest
